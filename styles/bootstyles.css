@@ -1,0 +1,13 @@
+#headerImgText {
+    position: absolute;
+    bottom: 10px;
+    left: 75px;
+    align-content: center;
+    font-weight: 600;
+    text-shadow: 0 1px 0 black;
+    /* margin-left: 70px; */
+    /* margin-bottom: 10px; */
+}
+.textShadow {
+    text-shadow: 0 1px 0 black;
+}
